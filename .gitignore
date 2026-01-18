@@ -1,0 +1,8 @@
+/termd
+*.exe
+*.test
+*.out
+/tmp/
+dist/
+.DS_Store
+Thumbs.db
